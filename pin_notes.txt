@@ -1,0 +1,20 @@
+Using a Raspberry Pi Pico clone:
+
+Input Pins:
+Up - 
+Down - 
+Left - 
+Right - 
+
+Select - 
+Back - 
+
+Screen Pins:
+LCD_CS - 13
+LCD_RST - 16
+LCD_RS/DC - 17
+LCD_SDI(MOSI) - 15
+SCK -  14
+LCD_LED - n/c
+LCD_SDO(MISO) - 12
+SD_CS - n/c
